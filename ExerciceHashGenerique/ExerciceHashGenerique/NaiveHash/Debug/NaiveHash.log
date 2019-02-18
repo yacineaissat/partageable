@@ -1,0 +1,6 @@
+﻿  Naive.cpp
+c:\users\mchimo17\desktop\exercicehashgenerique-master\naivehash\naive.cpp(17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: voir la déclaration de 'sprintf'
+     Création de la bibliothèque C:\Users\mchimo17\Desktop\ExerciceHashGenerique-master\Debug\Hash.lib et de l'objet C:\Users\mchimo17\Desktop\ExerciceHashGenerique-master\Debug\Hash.exp
+  NaiveHash.vcxproj -> C:\Users\mchimo17\Desktop\ExerciceHashGenerique-master\Debug\Hash.dll
+  NaiveHash.vcxproj -> C:\Users\mchimo17\Desktop\ExerciceHashGenerique-master\Debug\Hash.pdb (Full PDB)
